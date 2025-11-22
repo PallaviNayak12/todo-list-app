@@ -6,7 +6,7 @@ A simple and stylish **To-Do List web app** built using **HTML, CSS, and JavaScr
 
 ## 🚀 Features
 - Add and delete tasks   
-- Mark tasks as completed  
+- Mark tasks as completed   
 - Data saved in browser (Local Storage)  
 - Responsive and minimal UI  
 
